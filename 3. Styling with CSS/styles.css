@@ -1,4 +1,5 @@
 .center-text {
+
     /* TODO 3.1: Align the text center or right */
     text-align: center;
     /* TODO 3.2: Change the color of the font to your favorite color */
@@ -9,18 +10,22 @@
     font-size: 30px;
     /* TODO 3.5: Add an underline to the text */
     text-decoration-line: underline;
+
 }
 
 .paragraph-style {
+
     /* TODO 3.6: Make the font italic */
     font-style: italic;
     /* TODO 3.7: Change the font to  */
     font-family: Arial, Helvetica, sans-serif;
     /* TODO 3.8: Increase the space between lines */
     line-height: 2;
+    
 }
 
 .box {
+
     /* TODO 3.9: Set the width and height of the div. Try out the different units of HTML. px, em, %, in, rem  */
     height: 50%;
     width: 50%;
@@ -30,4 +35,5 @@
     padding: 60px 60px;
     margin: 80px 80px;
     border: 5px solid burlywood;
+
 }
